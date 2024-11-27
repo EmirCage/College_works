@@ -1,3 +1,2 @@
-# Meu_primeiro_projeto
-My firts projetc on GitHub!
-Calculator to facilitate internet sales.
+# My_college_works
+My projects made for college work
