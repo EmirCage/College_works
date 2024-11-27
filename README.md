@@ -1,2 +1,2 @@
-# My_college_works
-My projects made for college work
+# My_college_works_Python
+My Python Projects for College Work.
